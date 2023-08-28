@@ -17,10 +17,14 @@ webpack 版本 vue 自动路由生成插件，仿照 Nuxt 配置进行使用，�
 
 引入方式：
 
+> mpm install webpack-auto-vue-route --save-dev
+
+安装后进行使用
+
 > vue.config.js
 
 ```javascript
-const webpackAutoVueRoute = require("webpackAutoVueRoute");
+const webpackAutoVueRoute = require("webpack-auto-vue-route");
 
 module.exports = {
   configureWebpack: {
