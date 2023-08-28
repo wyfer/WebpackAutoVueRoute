@@ -1,6 +1,6 @@
 {
   "name": "webpack-auto-vue-route",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "werpack auto generate vue routes",
   "main": "lib/index.js",
   "scripts": {
